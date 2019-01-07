@@ -10,7 +10,7 @@ public class HelloWorld {
 		
 		System.out.println ("this is hello world sample - jerry - changed 002");
 		
-		System.out.println("upload to git server - 003");
+		System.out.println("upload to git server - 005");
 		
 		System.out.println ("java program is running at minute " + date.getMinutes());
 
