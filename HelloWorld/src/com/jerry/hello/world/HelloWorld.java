@@ -15,6 +15,8 @@ public class HelloWorld {
 		System.out.println ("this is hello world sample - jerry ");
 		 
 		System.out.println("upload to git server - 08Jan 002");
+
+		System.out.println("upload to git server - 08Jan 001");
   
 		
 		System.out.println ("java program is running at minute " + cl.getTime() + " ------" + date.getMinutes());
@@ -22,9 +24,7 @@ public class HelloWorld {
 		
 		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");//设置日期格式
 		System.out.println(df.format(new Date()));// new Date()为获取当前系统时间
-		
-		
-		
+
 	}
 
 }
